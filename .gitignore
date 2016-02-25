@@ -1,4 +1,4 @@
-enshort.po
+*.po
 translateApiKey.txt
 node_modules
 
