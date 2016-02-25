@@ -1,0 +1,15 @@
+enshort.po
+translateApiKey.txt
+node_modules
+
+# JetBrains IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.npmignore
+
+# Eclipse
+*.settings
+*.classpath
+/.project
