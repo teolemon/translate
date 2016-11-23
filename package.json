@@ -4,7 +4,7 @@
   "description": "",
   "repository" : {
     "type" : "git",
-    "url" : "ttps://github.com/jmj9e/translate.git"
+    "url" : "https://github.com/jmj9e/translate.git"
   },
   "license": "MIT",
   "packageType": "app",
